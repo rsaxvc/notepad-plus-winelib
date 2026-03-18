@@ -159,6 +159,9 @@ PowerEditor/bin/SourceCodePro-Regular.ttf
 # MinGW-w64 GCC
 
 bin.*
+scintilla/gtk/*.o
+scintilla/test/unit/*.o
+scintilla/test/unit/unitTest
 scintilla/win32/*.o
 
 
